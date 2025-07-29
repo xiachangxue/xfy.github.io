@@ -2,7 +2,7 @@
 title: "Hyperspectral image classification with deep learning models"
 collection: publications
 category: manuscripts
-permalink: /publication/2018-10-01-paper-title-number-1
+permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'A study on applying deep learning techniques to hyperspectral image classification, focusing on spectral–spatial feature extraction and model generalization.'
 date: 2018-10-01
 venue: '56'
