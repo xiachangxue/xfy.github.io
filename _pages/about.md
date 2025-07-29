@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Associate Professor | Deep Learning and Remote Sensing Researcher"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 Associate Professor
+
 School of Electronic and Communication Engineering, Guangzhou University
 
 I received my Ph.D. degree from the School of Computer Science and Technology at Harbin Institute of Technology, Shenzhen. I am currently an Associate Professor at the School of Electronic and Communication Engineering, Guangzhou University.
