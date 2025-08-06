@@ -1,0 +1,13 @@
+@article{XIAO2021237,
+title = {FPS-Net: A convolutional fusion network for large-scale LiDAR point cloud segmentation},
+journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+volume = {176},
+pages = {237-249},
+year = {2021},
+issn = {0924-2716},
+doi = {https://doi.org/10.1016/j.isprsjprs.2021.04.011},
+url = {https://www.sciencedirect.com/science/article/pii/S092427162100112X},
+author = {Aoran Xiao and Xiaofei Yang and Shijian Lu and Dayan Guan and Jiaxing Huang},
+keywords = {LiDAR, Point cloud, Semantic segmentation, Spherical projection, Autonomous driving, Scene understanding},
+abstract = {Scene understanding based on LiDAR point cloud is an essential task for autonomous cars to drive safely, which often employs spherical projection to map 3D point cloud into multi-channel 2D images for semantic segmentation. Most existing methods simply stack different point attributes/modalities (e.g. coordinates, intensity, depth, etc.) as image channels to increase information capacity, but ignore distinct characteristics of point attributes in different image channels. We design FPS-Net, a convolutional fusion network that exploits the uniqueness and discrepancy among the projected image channels for optimal point cloud segmentation. FPS-Net adopts an encoder-decoder structure. Instead of simply stacking multiple channel images as a single input, we group them into different modalities to first learn modality-specific features separately and then map the learnt features into a common high-dimensional feature space for pixel-level fusion and learning. Specifically, we design a residual dense block with multiple receptive fields as a building block in encoder which preserves detailed information in each modality and learns hierarchical modality-specific and fused features effectively. In the FPS-Net decoder, we use a recurrent convolution block likewise to hierarchically decode fused features into output space for pixel-level classification. Extensive experiments conducted on two widely adopted point cloud datasets show that FPS-Net achieves superior semantic segmentation as compared with state-of-the-art projection-based methods. Specifically, FPS-Net outperforms the state-of-the-art in both accuracy (4.9% higher than RangeNet++ and 2.8% higher than PolarNet in mIoU) and computation speed (15.0 FPS faster than SqueezeSegV3) for SemanticKITTI benchmark. For KITTI benchmark, FPS-Net achieves significant accuracy improvement (12.6% higher than RangeNet++ in mIoU) with comparable computation speed. In addition, the proposed modality fusion idea is compatible with typical projection-based methods and can be incorporated into them with consistent performance improvement.}
+}
