@@ -7,12 +7,3 @@ venue: "Guangzhou University, School of Electronic and Communication Engineering
 date: 2023-09-01
 location: "Guangzhou, Guangdong"
 ---
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
