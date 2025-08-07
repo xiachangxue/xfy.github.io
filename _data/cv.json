@@ -33,17 +33,17 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Harbin Institute of Technology",
+      "area": "Ph.D in Computer Software and Theory",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2019",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Harbin Institute of Technology",
+      "area": "M.S. in Computational Mathematics",
       "studyType": "",
       "startDate": "",
       "endDate": "2014",
@@ -51,11 +51,11 @@
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Suihua University",
+      "area": "B.S. in Information and Computing Sciences",
       "studyType": "",
       "startDate": "",
-      "endDate": "2012",
+      "endDate": "2011",
       "gpa": null,
       "courses": []
     }
